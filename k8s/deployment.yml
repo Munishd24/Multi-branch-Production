@@ -18,5 +18,3 @@ spec:
           image: munish005/cicd-web-app:build-8
           ports:
             - containerPort: 5000
-  # nanianic
-  #fniewnfionfi
