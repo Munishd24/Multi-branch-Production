@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = "munishd005/cicd-web-app"
+        IMAGE_NAME = "munish005/cicd-web-app"
         IMAGE_TAG  = "build-${BUILD_NUMBER}"
         GIT_USER   = "Munishd24"
         GIT_EMAIL  = "munishd1234@gmail.com"

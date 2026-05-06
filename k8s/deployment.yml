@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: movie-app
-          image: munishd005/cicd-web-app:latest
+          image: munish005/cicd-web-app:latest
           ports:
             - containerPort: 5000
   # nanianic
